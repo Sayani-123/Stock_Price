@@ -1,0 +1,30 @@
+/* Set the background to black */
+.stApp {
+    background-color: black;
+    color: white;
+}
+
+/* Style titles */
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+
+/* Customize input boxes */
+input {
+    background-color: #333;
+    color: white;
+    border: 1px solid #555;
+}
+
+/* Customize buttons */
+button {
+    background-color: #444;
+    color: white;
+    border: none;
+}
+
+/* Customize Streamlit widgets */
+.stTextInput {
+    background-color: #333;
+    color: white;
+}
